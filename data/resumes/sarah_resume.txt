@@ -1,0 +1,59 @@
+SARAH JOHNSON
+Email: sarah.j@email.com | Phone: +1-555-0123 | LinkedIn: linkedin.com/in/sarahjohnson | GitHub: github.com/sarahjohnson
+
+PROFESSIONAL SUMMARY
+Results-driven Full Stack Developer with 5 years of experience in building scalable web applications. Experienced in Python backend development, API design, and cloud technologies. Proven track record of delivering high-quality software solutions on schedule.
+
+PROFESSIONAL EXPERIENCE
+
+Senior Full Stack Developer
+CloudStack Inc | San Francisco, USA | 2021 - Present
+- Developed microservices architecture using Python and FastAPI
+- Designed and optimized PostgreSQL databases
+- Implemented CI/CD pipelines using GitHub Actions
+- Led API design decisions for company products
+- Worked with Docker and Kubernetes for container orchestration
+- Deployed applications on AWS cloud infrastructure
+- Conducted code reviews and mentored junior developers
+- Implemented Redis caching for performance optimization
+
+Full Stack Developer
+Web Solutions Corp | Austin, USA | 2018 - 2021
+- Developed Django web applications
+- Created RESTful APIs for mobile and web clients
+- Managed PostgreSQL and MongoDB databases
+- Implemented unit testing with pytest
+- Participated in agile development process
+- Used Git for version control
+- Collaborated with product team on feature design
+
+Developer
+Startup Hub | Austin, USA | 2017 - 2018
+- Assisted in web application development
+- Learned Python and web development best practices
+
+KEY COMPETENCIES
+- Languages: Python 3.8+, JavaScript, SQL
+- Backend: Django, FastAPI, Flask
+- Databases: PostgreSQL, MongoDB
+- Cloud: AWS (EC2, S3, Lambda), basic Azure
+- DevOps: Docker, Kubernetes, GitHub Actions, Jenkins
+- Frontend: React basics, Vue.js
+- APIs: RESTful API design and GraphQL knowledge
+- Testing: pytest, unittest
+- Tools: Git, Postman, Nginx
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Texas at Austin | 2017
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner
+- Professional Python Developer Certificate
+
+PROJECTS
+- E-commerce API: Built scalable e-commerce backend handling 10K+ requests/day
+- Real-time Chat Application: Developed using FastAPI and WebSockets
+
+LANGUAGES
+English: Native, Spanish: Intermediate

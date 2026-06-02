@@ -1,0 +1,56 @@
+PRIYA SHARMA
+Email: priya.sharma@email.com | Phone: +91-9876543210 | LinkedIn: linkedin.com/in/priyasharma
+
+PROFESSIONAL SUMMARY
+Experienced Senior Python Developer with 6 years of professional experience in developing scalable web applications and microservices. Proficient in Django, FastAPI, and modern Python development practices. Strong background in cloud deployment, API design, and team leadership.
+
+PROFESSIONAL EXPERIENCE
+
+Senior Python Developer
+Tech Solutions India Pvt Ltd | Mumbai, India | 2022 - Present
+- Led development of microservices architecture serving 1M+ users
+- Designed and implemented RESTful APIs using FastAPI
+- Mentored 3 junior developers on Python best practices
+- Optimized database queries reducing response time by 40%
+- Implemented CI/CD pipelines using Jenkins and GitHub Actions
+- Worked with PostgreSQL and MongoDB databases
+- Deployed applications using Docker and Kubernetes
+
+Python Developer
+Digital Innovations Ltd | Bangalore, India | 2019 - 2022
+- Developed web applications using Django framework
+- Implemented automated testing using pytest and unittest
+- Collaborated with DevOps team on AWS cloud deployment
+- Created comprehensive API documentation
+- Participated in agile development process
+- Managed version control using Git
+
+Junior Python Developer
+Code Lab Solutions | Pune, India | 2017 - 2019
+- Developed backend services using Python
+- Wrote and maintained SQL queries for data retrieval
+- Participated in code reviews
+
+TECHNICAL SKILLS
+- Programming Languages: Python 3.8+, SQL, Bash scripting
+- Web Frameworks: Django, FastAPI, Flask
+- Databases: PostgreSQL, MongoDB, MySQL
+- Cloud Platforms: AWS (EC2, S3, RDS), Azure basics
+- DevOps & Tools: Docker, Kubernetes, Jenkins, GitHub Actions
+- APIs & Protocols: RESTful API design, SOAP, GraphQL basics
+- Version Control: Git, GitHub, GitLab
+- Testing: pytest, unittest, Postman
+- Other Tools: Redis, Celery, Nginx, Apache
+
+EDUCATION
+Bachelor of Technology in Computer Science
+Indian Institute of Technology Delhi | 2017
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect Associate
+- Python Professional Certificate
+
+PROJECTS
+- E-commerce Platform: Built scalable Django application handling 100K daily transactions
+- Real-time Notification System: Developed using FastAPI and WebSockets
+- Data Analytics Dashboard: Created using Python and visualization libraries

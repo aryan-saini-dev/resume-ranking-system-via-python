@@ -1,0 +1,49 @@
+ANANYA MISHRA
+Phone: +91-9123456788 | Email: ananya.mishra@email.com | GitHub: github.com/ananyamishra
+
+PURPOSE
+Fresh Python Developer eager to contribute to software development projects while continuously learning and growing professional skills.
+
+EXPERIENCE
+
+Junior Python Developer
+Code Academy Solutions | Mumbai, India | 2022 - Present
+- Develop features using Python and Django
+- Write code following company guidelines
+- Test applications and report bugs
+- Collaborate with senior developers
+- Use Git for version control
+- Learn software development practices
+
+Intern - Python Developer
+IT Training Institute | Mumbai, India | 2021 - 2022
+- Completed Python programming training
+- Worked on small projects
+- Learned web development basics
+- Created simple applications
+
+EDUCATION
+Bachelor of Science in Computer Science
+Mumbai University | 2021
+
+TECHNICAL SKILLS
+- Languages: Python 3.8
+- Frameworks: Django basics, Flask basics
+- Databases: MySQL basics, Learning PostgreSQL
+- Version Control: Git basics
+- Tools: Postman, VS Code
+- Testing: Learning pytest
+- Other: Linux basics
+
+PROJECTS
+- Personal Blog: Built simple Django blog application
+- To-Do List App: Created REST API for to-do list application
+
+CERTIFICATION
+- Python Fundamentals Certificate
+
+LANGUAGES
+English, Hindi, Marathi
+
+COMPLETE SKILS
+Python, Django, MySQL, Git, REST APIs

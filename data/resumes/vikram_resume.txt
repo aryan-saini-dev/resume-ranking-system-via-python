@@ -1,0 +1,52 @@
+VIKRAM SINGH
+Email: vikram.singh@email.com | Phone: +91-9876543211 | LinkedIn: linkedin.com/in/vikramsingh
+
+CARREER OBJECTIVE
+Motivated Python Developer seeking a challenging position to apply technical skills and contribute to development of innovative software solutions.
+
+WORK HISTORY
+
+Python Developer
+IT Solutions Group | Hyderabad, India | 2020 - Present
+- Develop web applications using Django framework
+- Work with PostgreSQL databases
+- Create and maintain REST APIs
+- Participate in code reviews
+- Debug and fix issues in production code
+- Collaborate with team members
+- Document code and technical specifications
+
+Associate Developer
+Software Development Company | Hyderabad, India | 2019 - 2020
+- Assisted in Python development projects
+- Wrote Python scripts for automation
+- Learned Django framework and web development
+- Fixed bugs in existing applications
+- Participated in testing and QA
+
+Technical Support Engineer
+Tech Support Services | Hyderabad, India | 2018 - 2019
+- Provided technical support to clients
+- Troubleshot software issues
+- Created technical documentation
+
+SKILLS
+- Python Programming: Python 2.7, 3.6+
+- Web Development: Django, basic Flask
+- Databases: PostgreSQL, MySQL basics
+- APIs: Basic REST API knowledge
+- Tools: Git, GitHub
+- Testing: Familiar with pytest
+- Deployment: Basic Docker knowledge
+- Operating Systems: Linux, Windows
+
+EDUCATION
+Bachelor of Technology in IT
+Osmania University | 2018
+
+PROJECTS
+- Student Management System: Django application for managing student records
+- Expense Tracker: Simple Django web app for personal expense tracking
+
+LANGUAGES
+English, Hindi, Telugu

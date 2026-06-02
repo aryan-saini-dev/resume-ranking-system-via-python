@@ -1,0 +1,57 @@
+RAHUL PATEL
+Phone: +91-8765432109 | Email: rahul.patel@email.com | LinkedIn: linkedin.com/in/rahulpatel
+
+CARREER SUMMARY
+Experienced Python Developer with 4 years of hands-on experience in web application development and software engineering. Proficient in Django, REST API design, and database management. Strong problem-solving skills and collaborative team player.
+
+PROFESSIONAL BACKGROUND
+
+Python Developer
+WebDev Studios | Bangalore, India | 2021 - Present
+- Developed Django-based web applications
+- Designed and implemented REST APIs
+- Wrote clean and maintainable code following SOLID principles
+- Collaborated with UX/UI team on project requirements
+- Managed databases using SQL and ORM frameworks
+- Used Git for version control and branching strategies
+- Participated in code reviews
+- Implemented basic Docker containerization
+
+Junior Python Developer
+Startup Technologies | Bangalore, India | 2019 - 2021
+- Assisted in Python application development
+- Wrote and tested Python scripts
+- Debugged and maintained existing applications
+- Learned software development best practices
+- Participated in team meetings and planning sessions
+
+Intern - Python Developer
+Tech Learning Center | Bangalore, India | 2018 - 2019
+- Completed training in Python programming
+- Worked on small projects and assignments
+- Learned web development fundamentals
+
+COMPETENCIES
+- Programming: Python 3.6+, SQL
+- Web Frameworks: Django, Flask
+- Databases: PostgreSQL, MySQL
+- APIs: RESTful API development
+- Tools & Technologies: Git, Docker basics, Postman
+- Testing: Basic pytest knowledge
+- Agile: Familiar with agile methodologies
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+VIT Vellore | 2019
+
+PROJECTS
+- Blog Platform: Created Django-based blogging application with user authentication
+- Task Management System: Built REST API for task management with database integration
+- Inventory System: Developed inventory management system for small business
+
+CERTIFICATIONS
+- Python for Everybody Specialization (Coursera)
+- Django Developer Certificate
+
+LANGUAGES
+English, Hindi, Gujarati

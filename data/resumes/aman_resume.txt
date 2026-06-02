@@ -1,0 +1,55 @@
+AMAN KUMAR
+Email: aman.kumar@email.com | Phone: +91-9123456789 | GitHub: github.com/amankumar
+
+OBJECTIVE
+Seeking Senior Python Developer position to utilize 5+ years of development experience and contribute to innovative software solutions.
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+CloudTech Services | New Delhi, India | 2021 - Present
+- Developed microservices using Python and FastAPI framework
+- Designed database schemas for high-traffic applications
+- Implemented security protocols and data protection measures
+- Led technical discussions and architecture decisions
+- Worked with PostgreSQL and Redis for data management
+- Deployed applications on AWS cloud platform
+- Optimized code for performance improvement
+
+Python Developer
+WebStudio Innovations | Gurgaon, India | 2019 - 2021
+- Developed web applications using Django and Python
+- Created RESTful APIs for mobile and web clients
+- Wrote unit tests and integration tests
+- Collaborated with frontend team on API specifications
+- Used Git for version control and code management
+- Implemented caching mechanisms using Redis
+
+Associate Developer
+Software House Inc | Noida, India | 2017 - 2019
+- Learned Python programming and web development
+- Assisted in developing backend services
+- Fixed bugs and maintained existing code
+- Participated in code review sessions
+
+TECHNICAL EXPERTISE
+- Core Language: Python 3.8+
+- Web Development: Django, FastAPI
+- Database Management: PostgreSQL, MongoDB
+- Cloud Services: AWS services and deployment
+- Development Tools: Docker, Git, Kubernetes
+- API Development: RESTful API design and implementation
+- Testing Frameworks: pytest, unittest
+- Additional Skills: Nginx, Load Balancing, Message Queues
+
+EDUCATION
+Bachelor of Science in Information Technology
+Delhi University | 2017
+
+KEY ACHIEVEMENTS
+- Successfully migrated legacy application to microservices reducing infrastructure costs by 30%
+- Developed high-performance API reducing average response time from 2s to 200ms
+- Mentored 2 junior developers improving their coding skills
+
+LANGUAGES
+English: Fluent, Hindi: Native

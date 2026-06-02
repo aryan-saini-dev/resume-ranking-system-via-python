@@ -1,0 +1,59 @@
+Senior Python Developer - Job Description
+
+Position: Senior Python Developer
+Experience: 5+ years
+Location: Remote
+
+About the Role
+We are looking for a Senior Python Developer to join our growing team. You will be responsible for developing, testing, and maintaining scalable Python applications and microservices.
+
+Key Responsibilities
+- Design and develop scalable Python applications and APIs
+- Write clean, maintainable, and well-documented code
+- Participate in code reviews and provide constructive feedback
+- Mentor junior developers and lead technical discussions
+- Collaborate with cross-functional teams to deliver projects on time
+- Optimize application performance and ensure high availability
+- Implement best practices for security and data protection
+- Contribute to architecture and design decisions
+
+Required Skills
+- 5+ years of professional Python development experience
+- Strong proficiency in Python 3.8+
+- Experience with Django or FastAPI frameworks
+- Knowledge of SQL and NoSQL databases (PostgreSQL, MongoDB)
+- Experience with RESTful API design and development
+- Proficiency with version control systems (Git)
+- Understanding of software design patterns and principles (SOLID)
+- Experience with Docker and containerization
+- Knowledge of CI/CD pipelines and DevOps practices
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork abilities
+
+Preferred Qualifications
+- Experience with AWS or cloud platforms
+- Knowledge of Kubernetes and orchestration
+- Experience with microservices architecture
+- Familiarity with machine learning libraries (NumPy, Pandas, Scikit-learn)
+- Experience with Elasticsearch and search technologies
+- Knowledge of GraphQL
+- Open source contribution experience
+- Bachelor's degree in Computer Science or related field
+
+Nice to Have
+- Experience with Python testing frameworks (pytest, unittest)
+- Knowledge of caching mechanisms (Redis)
+- Experience with message queues (RabbitMQ, Kafka)
+- Understanding of agile methodologies
+- Technical writing and documentation skills
+
+Compensation & Benefits
+- Competitive salary based on experience
+- Comprehensive health insurance
+- Professional development opportunities
+- Flexible working hours
+- Remote work options
+- Collaborative team environment
+
+How to Apply
+Submit your resume, portfolio, and a brief cover letter. Include links to GitHub or portfolio projects.
