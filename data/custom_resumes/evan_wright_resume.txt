@@ -1,0 +1,11 @@
+Evan Wright
+Frontend Developer
+
+Experience:
+- 4 years of experience building interactive user interfaces.
+- Expert in React, Redux, and JavaScript (ES6+).
+- Strong understanding of HTML5 and CSS3.
+- Integrated frontend applications with RESTful APIs.
+- Proficient in Git and GitHub.
+
+Skills: JavaScript, React, Redux, HTML, CSS, UI/UX, Git, REST APIs.

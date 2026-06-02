@@ -1,0 +1,12 @@
+Alice Smith
+Senior Python Backend Engineer
+
+Experience:
+- 5 years of experience in backend development using Python.
+- Led the development of microservices using Django and FastAPI.
+- Designed and implemented RESTful APIs for mobile and web applications.
+- Managed PostgreSQL databases, optimizing complex SQL queries for performance.
+- Containerized applications using Docker and deployed them to AWS using CI/CD pipelines.
+- Proficient in Git version control.
+
+Skills: Python, Django, FastAPI, REST APIs, PostgreSQL, SQL, Docker, AWS, Git, Microservices.

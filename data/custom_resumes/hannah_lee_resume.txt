@@ -1,0 +1,11 @@
+Hannah Lee
+Backend Software Engineer
+
+Experience:
+- 4 years of experience building scalable backend architectures.
+- Extensive experience with Python and FastAPI for building microservices.
+- Strong background in SQL database design, particularly PostgreSQL.
+- Heavy use of Docker for containerization and deployed services on Google Cloud Platform (GCP).
+- Excellent understanding of REST APIs and Git version control.
+
+Skills: Python, FastAPI, PostgreSQL, SQL, Docker, GCP, REST APIs, Git, Microservices.

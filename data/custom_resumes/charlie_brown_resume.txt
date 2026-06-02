@@ -1,0 +1,11 @@
+Charlie Brown
+Data Scientist
+
+Experience:
+- 4 years of experience analyzing data using Python.
+- Developed machine learning models using Scikit-Learn and Pandas.
+- Wrote complex SQL queries to extract data from PostgreSQL databases.
+- Deployed ML models using a basic Flask API.
+- Familiar with Git and Docker.
+
+Skills: Python, Machine Learning, Pandas, Scikit-learn, SQL, PostgreSQL, Flask, Git, Docker.

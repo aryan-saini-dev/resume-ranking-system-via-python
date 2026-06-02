@@ -1,0 +1,11 @@
+Diana Prince
+Junior Software Engineer
+
+Experience:
+- 1 year of experience in web development.
+- Built simple backend applications using Python and Django.
+- Mostly worked on frontend development using HTML, CSS, and basic JavaScript.
+- Learned SQL in university and used it in a small academic project.
+- Familiar with Git.
+
+Skills: Python, Django, HTML, CSS, JavaScript, SQL, Git.

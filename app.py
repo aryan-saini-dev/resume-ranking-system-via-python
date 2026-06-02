@@ -19,16 +19,64 @@ st.set_page_config(
 # Custom CSS for better UI
 st.markdown("""
     <style>
-    .metric-card {
-        background-color: #f0f2f6;
-        padding: 20px;
-        border-radius: 10px;
-        margin-bottom: 10px;
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+    
+    html, body, [class*="css"] {
+        font-family: 'Inter', sans-serif;
     }
-    .header-text {
-        color: #1f77b4;
-        font-size: 28px;
-        font-weight: bold;
+    
+    /* Dark glassmorphism theme */
+    .stApp {
+        background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%);
+        color: #f8fafc;
+    }
+    
+    /* Headers */
+    h1, h2, h3 {
+        background: linear-gradient(to right, #38bdf8, #818cf8);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-weight: 800;
+    }
+    
+    /* Metric Cards */
+    div[data-testid="stMetricValue"] {
+        color: #38bdf8;
+        font-size: 2.2rem;
+        font-weight: 800;
+    }
+    div[data-testid="metric-container"] {
+        background: rgba(30, 41, 59, 0.7);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 1rem;
+        padding: 1.5rem;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+    }
+    div[data-testid="metric-container"]:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2);
+        border-color: rgba(56, 189, 248, 0.5);
+    }
+    
+    /* Buttons */
+    .stButton>button {
+        background: linear-gradient(to right, #3b82f6, #8b5cf6);
+        color: white;
+        border: none;
+        border-radius: 0.5rem;
+        padding: 0.5rem 1rem;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+    .stButton>button:hover {
+        transform: scale(1.05);
+        box-shadow: 0 0 15px rgba(139, 92, 246, 0.5);
+    }
+    
+    /* Dividers */
+    hr {
+        border-color: rgba(255, 255, 255, 0.1);
     }
     </style>
 """, unsafe_allow_html=True)
@@ -45,6 +93,11 @@ def load_uploaded_file(uploaded_file) -> str:
     """
     if uploaded_file is None:
         return ""
+        
+    if uploaded_file.name.lower().endswith('.pdf'):
+        from modules.pdf_processor import extract_text_from_pdf
+        return extract_text_from_pdf(uploaded_file.read())
+        
     return uploaded_file.read().decode('utf-8')
 
 
@@ -58,7 +111,7 @@ def extract_candidate_name(filename: str) -> str:
         Cleaned candidate name
     """
     # Remove extension and clean up
-    name = filename.replace('.txt', '').replace('_resume', '').replace('_', ' ')
+    name = filename.replace('.txt', '').replace('.pdf', '').replace('_resume', '').replace('_', ' ')
     return name.title()
 
 
@@ -120,7 +173,7 @@ def main() -> None:
     # Header
     col1, col2 = st.columns([0.15, 0.85])
     with col1:
-        st.emoji(":clipboard:")
+        st.title("📋")
     with col2:
         st.title("Intelligent Resume Ranking System")
     
@@ -138,8 +191,8 @@ def main() -> None:
         # Job Description Upload
         st.subheader("Job Description")
         job_desc_file = st.file_uploader(
-            "Upload Job Description (TXT)",
-            type=['txt'],
+            "Upload Job Description (TXT/PDF)",
+            type=['txt', 'pdf'],
             key='job_desc',
             help="Upload the job description file"
         )
@@ -149,8 +202,8 @@ def main() -> None:
         # Resumes Upload
         st.subheader("Candidate Resumes")
         resume_files = st.file_uploader(
-            "Upload Resumes (TXT)",
-            type=['txt'],
+            "Upload Resumes (TXT/PDF)",
+            type=['txt', 'pdf'],
             accept_multiple_files=True,
             key='resumes',
             help="Upload multiple resume files (minimum 2 resumes)"
@@ -159,9 +212,9 @@ def main() -> None:
         st.divider()
         st.info(
             "📌 **Tips:**\n"
-            "• Ensure all files are in TXT format\n"
+            "• Ensure files are in TXT or PDF format\n"
             "• Minimum 2 resumes required\n"
-            "• Files should contain clear text content"
+            "• For PDFs, text and OCR are supported"
         )
     
     # Main content area

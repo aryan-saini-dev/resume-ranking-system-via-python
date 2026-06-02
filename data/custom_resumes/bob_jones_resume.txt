@@ -1,0 +1,11 @@
+Bob Jones
+Python Developer
+
+Experience:
+- 3 years of experience as a software developer with a strong focus on Python.
+- Developed backend systems using Flask.
+- Created robust REST APIs for integration with third-party services.
+- Database administration using MySQL and SQL.
+- Basic knowledge of AWS and deploying applications using Docker.
+
+Skills: Python, Flask, REST APIs, MySQL, SQL, Docker, AWS, Git.
